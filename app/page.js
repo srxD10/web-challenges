@@ -12,6 +12,7 @@ export default function Home() {
           <AwesomeCard title="Pokedex" img="poke.jpg" route="pokeapi"/>
           <AwesomeCard title="Rick and Morty" img="rick.webp" route="rick"/>
           <AwesomeCard title="Clock" img="clock.jpeg" route="clock"/>
+          <AwesomeCard title="Animations" img="mario.gif" route="animations"/>
         </div>
       </main>
     </NextUIProvider>
