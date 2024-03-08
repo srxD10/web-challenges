@@ -13,6 +13,7 @@ export default function Home() {
           <AwesomeCard title="Rick and Morty" img="rick.webp" route="rick"/>
           <AwesomeCard title="Clock" img="clock.jpeg" route="clock"/>
           <AwesomeCard title="Animations" img="mario.gif" route="animations"/>
+          <AwesomeCard title="Keyboard" img="kb.gif" route="keyboard"/>
         </div>
       </main>
     </NextUIProvider>
